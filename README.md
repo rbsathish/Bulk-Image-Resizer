@@ -1,6 +1,7 @@
 # Bulk-Image-Resizer
 
-You can use this tool to resize all your images from the selected folder 
+You can use this tool to resize all your images from the selected folder.
+First Run the exe file and follow the steps
 
 Steps 1:
 
